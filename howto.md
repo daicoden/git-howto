@@ -7,3 +7,8 @@ Add a definition to git-howto
 -----------------------------
 
 git howto add "DESCRIPTION" "GIT-COMMAND"
+
+edit commit message
+-------------------
+
+git commit --amend
